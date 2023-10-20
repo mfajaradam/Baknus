@@ -1,0 +1,28 @@
+.pemandangan {
+    background-image: url(pemandangan.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    color: white;
+}
+
+nav {
+    display: inline;
+}
+
+.harimau {
+    margin-left: 120px;
+}
+
+.bunglon {
+    margin-left: 120px;
+}
+.utan {
+    margin-left: 60px;
+}
+
+.icon {
+    font-size: x-large;
+}
