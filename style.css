@@ -26,3 +26,8 @@ nav {
 .icon {
     font-size: x-large;
 }
+
+  footer a:hover {
+    text-decoration: none;
+    color: white;
+  }
