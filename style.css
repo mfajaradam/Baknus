@@ -1,11 +1,28 @@
+body {
+    overflow-x: hidden;
+}
+
 .pemandangan {
     background-image: url(pemandangan.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+p {
+    text-align: justify;
+}
+
+button {
+    border: 1px solid black;
+}
+
 a {
     color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: lightsteelblue;
 }
 
 nav {
@@ -20,14 +37,9 @@ nav {
     margin-left: 120px;
 }
 .utan {
-    margin-left: 60px;
+    margin-left: 120px;
 }
 
 .icon {
     font-size: x-large;
 }
-
-  footer a:hover {
-    text-decoration: none;
-    color: white;
-  }
